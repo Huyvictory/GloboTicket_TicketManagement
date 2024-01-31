@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventsList;
+using MediatR;
 
 namespace GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventDetail
 {
