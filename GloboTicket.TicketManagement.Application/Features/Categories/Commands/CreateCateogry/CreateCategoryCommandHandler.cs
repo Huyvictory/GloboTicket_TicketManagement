@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using GloboTicket.TicketManagement.Application.Contracts.Infrastructure;
 using GloboTicket.TicketManagement.Application.Contracts.Persistance;
 using GloboTicket.TicketMangement.Domain.Entities;
 using MediatR;
